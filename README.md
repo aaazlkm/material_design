@@ -1,4 +1,15 @@
-## 5/19 component behavior 　 Applying density
+## 5/20 Applying density | Understanding navigation
+
+- line heightを調整することで、情報密度を調整することができる
+- webだけdensityサポートがなされてる
+- ナビゲーションには以下の3つの種類がある
+  - lateral 横
+  - forward 前
+  - back 後ろ
+- アプリのトップレベルから、複数の画面への遷移が存在する場合は、トップレベルの画面からそれぞれの画面への遷移をできるようにしないといけない
+  - ナビゲーションだったり、下部のナビゲーションだったり
+
+## 5/19 component behavior Applying density
 
 - Component behavior では ScreenSize が変化したときの View の挙動について説明してる
 - Applying density

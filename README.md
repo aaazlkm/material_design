@@ -1,8 +1,21 @@
+## 5/21 Understanding navigation
+
+- バックキーと upward を押下した時の挙動は別々で定義されてるんだな
+- 画面遷移しても、リストのスクロールポジションを保持するようにする
+- navigation transitions の種類
+  - Hierarchical transitions
+    - 親子関係が存在する
+  - Peer transitions
+    - 同じレベルで画面遷移が起きること
+  - Top-level transitions
+    - bottom navigation bar で変化するような場合
+    - 各画面は互いに関係ない機能が入ってる
+
 ## 5/20 Applying density | Understanding navigation
 
-- line heightを調整することで、情報密度を調整することができる
-- webだけdensityサポートがなされてる
-- ナビゲーションには以下の3つの種類がある
+- line height を調整することで、情報密度を調整することができる
+- web だけ density サポートがなされてる
+- ナビゲーションには以下の 3 つの種類がある
   - lateral 横
   - forward 前
   - back 後ろ

@@ -1,3 +1,21 @@
+## 5/22 Navigation transitions Search Color
+
+- navigation をアニメーションさせることで、画面同士の関係を表現することができる
+  - 言葉を使わずとも、View の動きでその関係を表現できるって冷静にすごいことだよな
+- Search
+  - Persistent search
+    - サーチがアプリのメインアクションの時に使用する
+    - map アプリの上部に表示されてる検索のやつ
+  - Expandable search
+    - サーチがアプリのメインアクションではない時に使う
+      - 通常はサーチは隠れてて、タップすることで初めて表示されえる
+- The color system
+  - Principles
+    - Hierarchical
+    - Legible
+    - Expressive
+- 
+
 ## 5/21 Understanding navigation
 
 - バックキーと upward を押下した時の挙動は別々で定義されてるんだな

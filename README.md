@@ -1,3 +1,20 @@
+## 5/23 color system
+
+- color types
+  - primary Color
+    - アプリの画面、コンポーネント全体を通して最も頻度高く表示される色
+  - secondary color
+    - アクセントや区別するために使用される色
+      - fab, selection controls highlight selected text
+  - surface color
+  - background collor
+  - error color
+  - onCOlors
+    - XXXColor の上に表示されるテキストやアイコンなどの色を指定する
+- Alternative colors
+  - テーマの話
+  - 同じアプリないでも機能によってテーマを変える考えがあるらしい
+
 ## 5/22 Navigation transitions Search Color
 
 - navigation をアニメーションさせることで、画面同士の関係を表現することができる
@@ -14,7 +31,6 @@
     - Hierarchical
     - Legible
     - Expressive
-- 
 
 ## 5/21 Understanding navigation
 

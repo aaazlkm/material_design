@@ -1,3 +1,14 @@
+## 5/24 Applying color to UI
+
+- material design で決まってる color theme 以外にも追加でアプリの色を定義することができる
+- app bar に primary color を使用する system bar には primary color dart or light を適用する
+- アプリの構造よりもアプリのコンテンツを強調したい時に、app bar と backgourd の色を揃える
+  - app bar と content の色を分けることは、コンテンツの構造を伝えるのに役に立っていたんだな
+  - 同じ色にしてもスクロー時に shadow を適用することで、同化しないようにしてる
+- 背景の色が強いと、各要素が目立たなくなり、コンテンツ全体が目立つようになる
+- 下部シート、ドロワー、メニュー、ダイアログ、カードなどのベースラインは白だが、他のものと区別するために色を与えることができる
+  - 例では primary color を設定してる
+
 ## 5/23 color system
 
 - color types

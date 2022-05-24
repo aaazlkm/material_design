@@ -1,3 +1,14 @@
+## 5/25 Applying color to UI Color usage
+
+- modal sheet 系に primary color を使用していいんだ
+- drawer の scrim の黒じゃなくていいのか
+  - シャドウは黒のイメージがあったけど、白表示でもいいのか
+- 画像の上にテキストを表示すると読みにくくなるので、primary color をテキストとアイコンの下に敷いて読みやすさを担保する
+- 色によって、重要性や他のテキストとの関係性を表現することができる
+- 重要なテキストには、primary secondary を使用する
+- 画像の上にテキストを表示する場合は、薄い色のシートの上にテキストを表示する
+  - これにより読みやすさが担保される
+
 ## 5/24 Applying color to UI
 
 - material design で決まってる color theme 以外にも追加でアプリの色を定義することができる

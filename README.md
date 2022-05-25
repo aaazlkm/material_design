@@ -1,3 +1,13 @@
+## 5/26 UI Color usage
+
+- 色は、階層やブランドの存在、View の状態を示す
+- どの element が重要か示す方法は、たくさんある
+  - Color Theme はアプリによって異なるので
+  - 色は他との要素との関係で意味が変わってくる
+- 色だけではなく、形も変えることで、選択したことを強調することができる
+- gray を使うことで、写真やテキストが目立つ
+- launch screen は色を大胆に使う最適なタイミング
+
 ## 5/25 Applying color to UI Color usage
 
 - modal sheet 系に primary color を使用していいんだ

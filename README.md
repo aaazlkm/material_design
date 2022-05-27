@@ -1,3 +1,16 @@
+# 5/28 Text legibility and Dark theme
+
+- 相変わらずテキストの opacity を下げる意味がわからない
+  - opacity つけないとコントラスト強すぎるから、それを防ぐ意味で opacity をつけるのかな？
+  - これはデザイナーの人に確認をしたいな
+- material tool を使用することで、テキストと背景色のコントラストが十分か確認することができる
+- 色の opacity を変更することで、active 状態を表現したり、読みやすさを調整できる
+- dark theme
+  - 目の疲れを顕現し、照明条件に合わせて明るさを調整し、暗い環境でも画面を使用できるようにする
+  - 人間工学的に素晴らしい
+- dark theme で決まってること
+  - 深さは影ではなく、surface の明るさで表現する
+
 ## 5/27 Color usage and Text legibility
 
 - placeholder, state change, prgogress などでブランドカラーを使うことで、そのブランドカラーの存在を維持できる

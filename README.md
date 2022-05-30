@@ -1,3 +1,16 @@
+# 5/30 Dark theme
+
+- dark theme はブラックではなく、ダークグレイを使用する
+  - ブラックだと完全にシャドウが見えなくなってしまうため
+- 影ではなく、表面の色の明るさで、深さを表す
+  - これは onSurface カラーを overlay で薄く表示することで実現する
+    - でも light の時これやるのか？
+    - もしかしてここで条件判定入れないといけないのか？面倒じゃね？
+    - elevation の値ごとに、overlay どれくらい載せるかが決まってる
+      - 1dp -> ovelay 5%など
+    - この考えは、primary, secondary を使用した view には適用されない
+      - overlay を表示しない
+
 # 5/28 Text legibility and Dark theme
 
 - 相変わらずテキストの opacity を下げる意味がわからない

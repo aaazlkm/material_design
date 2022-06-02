@@ -1,3 +1,14 @@
+# 6/3 Dark theme
+
+- 状態を表現するのに、オーバーレイを使用する
+  - surfaceContainerとprimaryContainerが存在する
+  - surfaceContainer
+    - テキストやアイコンと同じ色のオーバーレイを載せる
+  - primaryContainer
+    - 背景色がprimaryを使用してるもの
+    - オーバーレイはwhite
+  - ここのらへんの処理は自分でやるというよりかは、ライブラリ側で自動でやってくれてる部分だよな
+-
 # 6/2 Dark theme
 
 - ダークテーマの時は、エラーに色に white の opacity 載せてる

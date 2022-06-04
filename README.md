@@ -1,14 +1,39 @@
+# 6/4 The type system
+
+- a range of さまざまな
+- type の大きさは、13 のスタイによって表現される
+- android では文字間の間隔は em の単位を使用する？
+  - 何これ？
+- headline
+  - 1 - 6 段階ある
+  - 短く、攻めてるフォントを使える
+- Subtitles
+  - 中間的な表現に使用される、短いテキスト
+  - 攻めてるフォントは使わないようにする
+- Body
+  - 1-2
+  - 長い文章に使用される
+  - 攻めたフォントは使用しない
+- Caption and overline
+  - 最も小さいサイズのテキスト
+  - 注釈の時などに使用される
+  - overline 初めて聞いた
+    - overline に使用されるらしい、overline とは？
+      - 見出しの上の補足文らしい
+    - caption は？
+      - 画像の下に説明文などで使用される
+
 # 6/3 Dark theme
 
 - 状態を表現するのに、オーバーレイを使用する
-  - surfaceContainerとprimaryContainerが存在する
+  - surfaceContainer と primaryContainer が存在する
   - surfaceContainer
     - テキストやアイコンと同じ色のオーバーレイを載せる
   - primaryContainer
-    - 背景色がprimaryを使用してるもの
-    - オーバーレイはwhite
+    - 背景色が primary を使用してるもの
+    - オーバーレイは white
   - ここのらへんの処理は自分でやるというよりかは、ライブラリ側で自動でやってくれてる部分だよな
--
+
 # 6/2 Dark theme
 
 - ダークテーマの時は、エラーに色に white の opacity 載せてる

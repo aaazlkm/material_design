@@ -1,3 +1,16 @@
+# 6/6 Understanding typography
+
+- Ascenders and descenders
+  - cap height よりも高い d などが該当する
+  - base line よりも下に伸びるやつ y など
+- weidget
+  - 太さ
+- Monospace
+  - 全ての幅が同じ
+  - さんセリフは一応幅違うんだな、一緒かと思ってた
+- 識字力は、フォントに影響
+- 読みやすさは、書体のスタイルに影響される単語やテキストのブロックを読みやすくすることを意味する
+
 # 6/5 The type system Understanding typography
 
 - button のテキストは典型的に all caps sans serif
@@ -14,7 +27,6 @@
 - X-height
   - 書体の小文字の x の高さを指す
   - x height が高いと、各文字内の空白が読みやすいため、小さいフォントサイズで読みやすくなる
-- Ascenders and descenders
 
 # 6/4 The type system
 

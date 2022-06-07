@@ -1,3 +1,15 @@
+# 6/7 Understanding typography
+
+- Letter-spacing
+  - 文字間のスペースを均一に調整すること
+  - 見出しなどの大きなタイプのテキストは、文字間を狭くするらしい
+  - 小さい文字は、文字間隔広めにとるらしい
+- 表などの数字は、固定幅のフォントを使用する
+  - カンマの位置を揃えるため
+- line は
+  - body は 40-60 がベスト
+  - short line は 20-40
+
 # 6/6 Understanding typography
 
 - Ascenders and descenders

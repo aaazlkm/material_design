@@ -1,3 +1,22 @@
+# 6/10 Language support About sound
+
+- 言語によってテキストの大きさ変えるの大変だと思ったけど、これはアプリ側でテキストのサイズを変更できる設定を設ければ解決だな
+- google が各言語の以下のタイプに分類している
+  - English-like
+  - Tall typefaces
+  - Dense typefaces
+- アプリに sound effect 取り入れたいいいいな
+- sound は次の目的で使用される
+  - UI を特定のサウンドに関連付ける
+  - 感情や性格を表現する
+  - 相互作用を特定の音に関連づけることにより、階層構造を伝達
+  - 感覚フィードバックを提供する
+    - ユーザにアクションが終了したことを明確に伝えることができる
+
+# 6/9
+
+会社でデザイン会があったのでお休み
+
 # 6/8 Understanding typography Language support
 
 - lineheight 指定した状態で、sp 変えるとどうなるんだろう？

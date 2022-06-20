@@ -1,3 +1,16 @@
+# 6/21 Sound attributes
+
+- dynamics
+  - volume または、ラウンドネスを変化させる
+  - ダイナミックなサウンドにより、自然でリアルに感じられる
+- Envelope
+  - 時間の経過に伴うサウンドの振幅の変化を指します。
+  - attacke
+    - softer と shaper の表現方法がある
+  - Decay
+    - アタック後にサウンドの振幅が減少する量と速度を差す
+    - decay が大きいほど、音が大きくゆっくり感じられる
+
 # 6/15 Sound attributes
 
 - Tonality

@@ -1,3 +1,16 @@
+# 6/22 Sound choreography
+
+- Effects
+  - 音に空間と奥行きを与える
+  - Reverb
+    - サウンドに存在感を与える
+    - 確かに音が広がっていくような感覚を覚える
+  - Delay
+    - 元のサウンドをのエコーをそのサウンドにブレンドする
+- Sound choreography
+  - 互いに続く音には関連性が必要
+  - Key signatures が tonal サウンドの特徴を決定する
+
 # 6/21 Sound attributes
 
 - dynamics

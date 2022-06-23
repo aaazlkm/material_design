@@ -1,3 +1,14 @@
+# 6/24 Sound choreography
+
+- Expressing sound relationships
+  - motifs を使用して on off は互いに関係してる音を出す
+- Repeated sounds
+  - よく発生する音は、現実世界の音を真似たり、音に僅かな変化を与える
+    - **同じ UI でも謳歌する場所によって、音を変えてる！！！**
+  - スクロールやスワイプやタイプなど
+- Mixing sound
+  - 複数の音源を混ぜること
+
 # 6/22 Sound choreography
 
 - Effects

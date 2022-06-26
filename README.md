@@ -1,3 +1,16 @@
+# 6/26  Sound choreography Product icons
+
+- file formats
+  - ファイルの圧縮をしすぎてノイズを含まないようにする
+  - でも、圧縮はちゃんとする
+- material design の haptic sound を置いとい手くれてる
+  - https://material.io/design/sound/sound-resources.html#
+- Product icons
+  - 実際に髪からプロトタイプを作り、光の当たり方などを見る
+  - keyline shapes
+    - 以下の四つの基本的な形がある
+      - square circle vertiacal rectangle horizontal regtangle
+
 # 6/25 Sound choreography
 
 - sound にも priority という概念あるんだな

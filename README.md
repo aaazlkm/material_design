@@ -1,4 +1,24 @@
-# 6/26  Sound choreography Product icons
+# 6/27 Product icons
+
+- Anatomy
+  - 解剖学、構造
+- マテリアルデザインでは、仮想の光が要素を照らすので、それを反映して車道などを設定しないといけない
+- Contact shadow
+  - 要素を真上から照らすことによって生じる影
+- Edge tint and shade
+  - 要素の top と bottom の端に色を与えることで、深さを表現することができる
+    - top には明るい色を
+    - bottom には暗い色を
+  - height は 1dp くらい
+- Finish
+  - 45angle で照らす光
+- 色自体に車道やエッジの表現を適用してはいけない
+- レイヤーを追加しすぎてはいけない
+- スコアリングは、アイコンを半分に分ける行為
+  - これにより、深さを与えることができる
+  - 中心に据えないといけない
+
+# 6/26 Sound choreography Product icons
 
 - file formats
   - ファイルの圧縮をしすぎてノイズを含まないようにする

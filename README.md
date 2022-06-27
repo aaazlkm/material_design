@@ -1,3 +1,14 @@
+# 6/28 Product icons System icons
+
+- fold
+  - 折りたたんだような表現もできる
+- Accordion
+  - アコーディオンのように折りたたんだ表現できる
+- アイコンを歪めたり、変形させたりしてはいけない
+- System icons
+  - アイコンに対して、細かい装飾は止める
+    - 細い線なども表現
+
 # 6/27 Product icons
 
 - Anatomy

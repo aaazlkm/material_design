@@ -1,3 +1,13 @@
+# 7/4 System icons
+
+- icon の stroke は 2dp じゃないといけない
+  - だからマテリアルデザインのアイコンはちょっと太めなんだな
+- icon の　 stoke は均一じゃないといけない
+  - けど、複雑な形状のアイコンの場合は、読みやすさ的に調整して、違う太さになることもある
+- icon の touch target は 48dp 確保しないといけない
+  - ios では 40dp ですね
+  - keyboard やマウスが主なインプット要素だったら、40dp でもいいらしい
+
 # 6/28 Product icons System icons
 
 - fold

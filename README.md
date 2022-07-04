@@ -1,3 +1,16 @@
+# 7/5 system icons & animated icons
+
+- 太さと fill と corner radius と color をいじってカスタムアイコンを作成することができる
+- recomennded corner radius values are between 0dp and 4dp
+- icon theme
+  - outlined icon
+  - two-tone icons
+  - sharp and rounded icons
+    - enables the use of multiple brand colors
+    - improve legibility
+- animated icon
+  - polish and delight. 磨きと喜び
+
 # 7/4 System icons
 
 - icon の stroke は 2dp じゃないといけない

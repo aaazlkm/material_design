@@ -1,3 +1,49 @@
+# 7/10 animated icons & shape
+
+- identity
+  - コンポーネントを識別する方法を提供する
+- state
+  - by using shape, you can express elements change of state
+- branding
+  - tandem 　二つの何かが縦に並んで
+- Displaying shape
+  - 背景色に対して十分なコントラストを持ってると、shape はよく見える
+  - シャドウを使ったり、色や opacity を使ってコントラストを持たせるようにする
+- Communicating meaning
+  - シェイプは特定の目的や意味を持たせるために使用する
+  - 一つだけ各丸じゃないのは、つながりを表現できる
+
+# 7/9 animated icons & shape
+
+- animation の種類
+  - transitions
+    - アイコン A からアイコン B への変化
+    - simple
+      - そこまで重要ではない変化
+      - 単純なアニメーション(fading, scaling rotating)でもいい感じに変化してるように見える
+      - ツールバーのアイコンなどに使用される
+    - complex
+      - 重要な変化
+      - アイコン自体が変化するようなアニメーション
+      - 注意を引くしいい感じ
+      - lottie らへんを使わないといけないんだろうな
+      - music の操作のアイコンなどに使われる
+  - Duration
+    - 複雑なアニメーションの場合は duration を長めにとる
+    - simple: 100ms
+    - average: 200ms
+    - complext: 500ms
+  - stagger
+    - left to right にアニメーションを適用することで、進行中のような意味を持たせることができる
+  - States
+    - animation represent they have changed state
+  - Theming
+- shape
+  - 色々な形を設定することができる
+- Usage
+  - emphasis
+    - unique shapes stands out, they can direct attention to different parts of screen
+
 # 7/6 animated icons & shape
 
 - animation の種類

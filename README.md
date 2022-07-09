@@ -1,3 +1,34 @@
+# 7/6 animated icons & shape
+
+- animation の種類
+  - transitions
+    - アイコン A からアイコン B への変化
+    - simple
+      - そこまで重要ではない変化
+      - 単純なアニメーション(fading, scaling rotating)でもいい感じに変化してるように見える
+      - ツールバーのアイコンなどに使用される
+    - complex
+      - 重要な変化
+      - アイコン自体が変化するようなアニメーション
+      - 注意を引くしいい感じ
+      - lottie らへんを使わないといけないんだろうな
+      - music の操作のアイコンなどに使われる
+  - Duration
+    - 複雑なアニメーションの場合は duration を長めにとる
+    - simple: 100ms
+    - average: 200ms
+    - complext: 500ms
+  - stagger
+    - left to right にアニメーションを適用することで、進行中のような意味を持たせることができる
+  - States
+    - animation represent they have changed state
+  - Theming
+- shape
+  - 色々な形を設定することができる
+- Usage
+  - emphasis
+    - unique shapes stands out, they can direct attention to different parts of screen
+
 # 7/5 system icons & animated icons
 
 - 太さと fill と corner radius と color をいじってカスタムアイコンを作成することができる

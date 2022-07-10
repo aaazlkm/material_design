@@ -1,3 +1,18 @@
+# 7/11 shape & Shape and hierarchy
+
+- component は以下の三つに分けれられる
+  - small
+    - button, chip
+  - medium
+    - card
+  - large
+    - drawer
+- Shape and hierarchy
+  - unique shape get user attention
+  - 周りの要素が四角の中丸の fab は stand out
+- related surfaces
+  - 一つの場所だけ角にすることで、他の surface に関連することを表現することができる
+
 # 7/10 animated icons & shape
 
 - identity

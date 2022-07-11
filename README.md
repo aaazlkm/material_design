@@ -1,3 +1,10 @@
+# 7/12 Shape as expression
+
+- in tandem with と並行して
+- initiated 　開始して
+- morph 変形して
+- shape change はユーザの操作に紐づけるべき ssion
+
 # 7/11 shape & Shape and hierarchy
 
 - component は以下の三つに分けれられる

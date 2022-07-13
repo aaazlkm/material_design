@@ -1,3 +1,11 @@
+# 7/13 Shape as expression
+
+- Expressing brand
+  - 形と色やテキストを組み合わせることで、ブランドの視覚言語を開発することができる
+  - shape family
+    - アプリ内で使用するshapeをまとめて定義しておく
+  - 異なるshape styleを混ぜちゃうと、ブランドとshapeが結びつかなくなるのでやめたほうがいい
+
 # 7/12 Shape as expression
 
 - in tandem with と並行して

@@ -1,3 +1,11 @@
+# 7/14　Shape and motion
+
+- Shape overuse
+  - 特殊なshapeの使いすぎは、意味をなくしてしまう。特殊が普通になってしまうから
+  - 普通になると　leaa noticiableになる
+- Shape and motion
+  - shapeはコンテントの変化やユーザインタラクションによって、変化する
+
 # 7/13 Shape as expression
 
 - Expressing brand

@@ -1,3 +1,14 @@
+# 7/15 Shape and motion
+
+- dimension  寸法、広がり、容積
+- surface can change its size
+  - Stretching
+  - shrinking
+- avoid distorting shapes when stretching or shrinking a surface
+- shape can transform into a different shape
+- all content o a surface shoul be visible while the surface morphs, without clipping content
+  - 内容が見えるように、surfaceの大きさが変わるようにする
+
 # 7/14　Shape and motion
 
 - Shape overuse

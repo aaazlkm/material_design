@@ -1,29 +1,46 @@
+# 7/20 Shape and motion Applying shape to UI
+
+- Default shape
+  - vice versa
+    - 逆もまた同様に
+  - backdrop の例がいい感じだ、こんなアプリを作りたいんだよな
+- Applying shape to UI
+  - material shape system によってシステマチックにコンポーネントにユニークな形を適用できる
+  - components are grouped into shape catgrories based on their size
+  - shape categories include
+    - small components
+      - button, chip
+    - medium components
+      - card, dialog
+    - large components
+      - backdrop, data table
+
 # 7/15 Shape and motion
 
-- dimension  寸法、広がり、容積
+- dimension 寸法、広がり、容積
 - surface can change its size
   - Stretching
   - shrinking
 - avoid distorting shapes when stretching or shrinking a surface
 - shape can transform into a different shape
 - all content o a surface shoul be visible while the surface morphs, without clipping content
-  - 内容が見えるように、surfaceの大きさが変わるようにする
+  - 内容が見えるように、surface の大きさが変わるようにする
 
-# 7/14　Shape and motion
+# 7/14 　 Shape and motion
 
 - Shape overuse
-  - 特殊なshapeの使いすぎは、意味をなくしてしまう。特殊が普通になってしまうから
-  - 普通になると　leaa noticiableになる
+  - 特殊な shape の使いすぎは、意味をなくしてしまう。特殊が普通になってしまうから
+  - 普通になると　 leaa noticiable になる
 - Shape and motion
-  - shapeはコンテントの変化やユーザインタラクションによって、変化する
+  - shape はコンテントの変化やユーザインタラクションによって、変化する
 
 # 7/13 Shape as expression
 
 - Expressing brand
   - 形と色やテキストを組み合わせることで、ブランドの視覚言語を開発することができる
   - shape family
-    - アプリ内で使用するshapeをまとめて定義しておく
-  - 異なるshape styleを混ぜちゃうと、ブランドとshapeが結びつかなくなるのでやめたほうがいい
+    - アプリ内で使用する shape をまとめて定義しておく
+  - 異なる shape style を混ぜちゃうと、ブランドと shape が結びつかなくなるのでやめたほうがいい
 
 # 7/12 Shape as expression
 

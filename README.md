@@ -1,3 +1,24 @@
+# 7/21 Applying shape to UI
+
+- Shape attributes
+  - category attributes
+    - shape family
+    - shape size
+    - symmetry
+  - shape family
+    - components can apply one of two styles to the shapes of their corners
+      - rounded corner
+      - cut corner
+  - shape size
+    - shape size is defined by absolute or percentage
+    - absolute
+      - ex. 2dp, 40dp...
+    - percentage
+      - small component s can set the size of theire corner shape using a percentage of the absolute height
+      - this means the corner shape will change as the component height changes
+        - this only use when changing shape is small component
+        - beacause dynamically changing height will lead to rounded corner to circle
+
 # 7/20 Shape and motion Applying shape to UI
 
 - Default shape

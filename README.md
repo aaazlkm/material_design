@@ -1,3 +1,10 @@
+# 7/22 Applying shape to UI
+
+- component symmetry
+  - components can apply corner shapes in either a symmetrical or asymmetrical way
+  - when rtl layouts, we need mirror design
+- Categories and overrides
+
 # 7/21 Applying shape to UI
 
 - Shape attributes

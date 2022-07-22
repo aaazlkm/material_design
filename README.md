@@ -1,3 +1,15 @@
+# 7/23 Applying shape to UI
+
+- overrides
+  - when a component requires different shape than the one defined by a category, it can use an override to its shape family size or both.
+- Picking shapes
+  - we can use shape as brand
+  - mixing shapes can make it hard to distinguish brand style
+- Hierarchy
+  - component with unique shapes stand out
+    - can be used to draw use attention
+  - like fab
+
 # 7/22 Applying shape to UI
 
 - component symmetry

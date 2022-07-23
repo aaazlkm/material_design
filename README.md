@@ -1,3 +1,14 @@
+# 7/24 Applying shape to UI
+
+- Use a set of similar, related shapes across your product's components as a basis for developing a consistent hierarchy and brand expression.
+- overuse of shape to express brand can lead to brand dilution
+- Transformations
+  - components can use shape changes to indicate state changes
+  - shape used to indicate state should be distinct from the components typical shape
+  - intrude 侵入
+- Baseline shape values
+  - the recommended range of values for each shape family are listed in the following table
+
 # 7/23 Applying shape to UI
 
 - overrides

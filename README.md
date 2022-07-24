@@ -1,3 +1,20 @@
+# 7/25 Understanding motion
+
+- principle
+  - informative
+  - focused
+  - expressive
+- Hierarchy
+  - motion reflects the hierarchy between a parent and child
+- Brand expression
+  - motion is used to express a brand personality and style
+  - Icons and illustrations
+    - polish　磨く
+    - animation in icons can add polish and playfulness to the user experience
+    - motion can be used emphasize key points in a user journey
+- feedback and status
+  - motion provides timely feedback and indicates the status of user or system actions
+
 # 7/24 Applying shape to UI
 
 - Use a set of similar, related shapes across your product's components as a basis for developing a consistent hierarchy and brand expression.

@@ -1,3 +1,11 @@
+# 7/27 The motion system
+
+- Container transform
+  - seamlessly transforming one element into another, the relationship of the two elements is reinforced
+  - can use when occupy only part of screen
+- Shared axis
+  - using when transitions between ui elements that have a spatial or navigational relationship
+
 # 7/26 Motion
 
 - use education

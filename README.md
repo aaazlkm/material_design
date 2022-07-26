@@ -1,3 +1,17 @@
+# 7/26 Motion
+
+- use education
+  - motion helps users understand how to perform action
+    - like swipe to unlock
+- transition patterns
+  - container transform
+  - shared axis
+    - applied to ui elements with a spatial or navigational relationship
+  - fade through
+    - applied to ui elements without a strong relationship to each other
+  - fade
+    - entering or exiting elements
+
 # 7/25 Understanding motion
 
 - principle

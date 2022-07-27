@@ -1,3 +1,11 @@
+# 7/28 The motion system
+
+- Shared axis
+  - use fade when shared azis transition creates an unwanted flashing effect
+- Fade through
+  - used for transitions between ui elements that do not have a strong relationship to each other
+  - fade through does not mislead users to think they can swipe horizontally between destinations
+
 # 7/27 The motion system
 
 - Container transform

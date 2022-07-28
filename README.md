@@ -1,3 +1,15 @@
+# 7/29 The motion system & Speed
+
+- Fade
+  - used when screen or dialog
+  - i hava no idea about diffrence between face and fade through
+    - fade does not have outgoing view.
+- Speed
+  - speed adjustments make transitions smooth and responsive
+  - two properties
+    - duration
+    - easing
+
 # 7/28 The motion system
 
 - Shared axis
@@ -39,7 +51,7 @@
 - Brand expression
   - motion is used to express a brand personality and style
   - Icons and illustrations
-    - polish　磨く
+    - polish 　磨く
     - animation in icons can add polish and playfulness to the user experience
     - motion can be used emphasize key points in a user journey
 - feedback and status

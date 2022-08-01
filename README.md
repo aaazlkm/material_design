@@ -1,3 +1,21 @@
+# 8/2 Speed
+
+- duration
+  - the right combination of duration and easing produces smooth and clear transitions
+  - exits and closing
+    - use shorter duration when transitions thanclose dismiss or collapse
+    - exit transitions mayy be faster because they require less attention
+    - when drawer open 250ms close 200ms
+  - transition area
+    - 遷移先で大きくなるほど、duration は大きくなる
+- easing
+  - adjust an animations's rate of change
+  - make elements move as though natural forces
+  - types
+    - standard easing
+      - brings attention to the end of an animation by taking more time to decelerate than accelerate
+        - こんなのもあるんだ
+
 # 7/29 The motion system & Speed
 
 - Fade

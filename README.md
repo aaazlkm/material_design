@@ -1,3 +1,16 @@
+# 8/3 speed
+
+- speed
+  - Emphasized easing
+    - In comparison to 　比べれば
+    - draws extra attention at the end of an animation
+    - used with longer durations
+    - they speed up quickly and slow down very gradually, placing emphasis on the end of the transition
+  - Decelerated easing
+    - incoming elements are animated using decelerated easing
+  - Accelerated easing
+    - outgoing elements are animated using accelerated easing
+
 # 8/2 Speed
 
 - duration

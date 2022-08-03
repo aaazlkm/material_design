@@ -1,3 +1,24 @@
+# 8/4 Choreography
+
+- Choreography
+  - transistion chioreography is a coordinated motion sequence
+  - Sequencing
+    - refers to the. order in which the different parts of an animation occur
+    - a good sequence helps users understand what has changed on a screen
+    - element types
+      - outgoing
+      - incoming
+      - persistent
+    - Fade types
+      - fade
+        - one element fading
+      - cross-fade
+        - A cross-fade transitions two elements simultaneously:
+      - fade through
+        - an outgoing element fading out entirely before an incoming element fades in.
+        - 先に消えてから、表示される
+        - minimize overlapping partially transparent elements
+
 # 8/3 speed
 
 - speed

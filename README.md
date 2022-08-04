@@ -1,3 +1,17 @@
+# 8/5 Choreography
+
+- peak velocity
+  - peak velocity refers to the fastest moment in a transition
+- Transformation
+  -  changing size, position, and opacity are types of transformation
+  -  undergo　経験する　経る
+  -  Complex layout changes use a shared transformation to create smooth transitions
+  -  Don’t animate multiple elements simultaneously in relation to each other.
+    - 別に良さげに見えるけどな....
+  - Don’t move multiple elements independently.
+    - it must avoid
+- Transitions with animated containers
+
 # 8/4 Choreography
 
 - Choreography

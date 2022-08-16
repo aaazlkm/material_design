@@ -1,3 +1,17 @@
+# 8/16 Choreography
+
+- Transitions with animated containers
+  - when animate like a card ordivider, use container transforms
+- Transitions without animated containers
+  - when an element group is not contained by difined borders, use shared transformation
+    - icons with fab can rotate
+- Focal elements
+  - Focal：商店
+  - focal element in a transition is a persistent element that is significant to the overall hierarchy of elements in a transition
+    - like header image
+- Focal element conflicts
+  - Some transitions will place a focal element in the path of other elements. In these cases, avoid using a focal element and apply a fade instead.
+
 # 8/5 Choreography
 
 - peak velocity

@@ -1,3 +1,20 @@
+# 8/24 Customization
+
+- motion can be customized to express your brand's style
+- Applying customizations
+  - apply customizatoin each app brand
+- Speed
+  - speed can be adjusted by changing a transitions duration and easing
+- Motion paths
+  -  the path that they follow can be linear or arced
+  -  Linear motion paths have a simple and functional style, while arc motion paths create a more emphasized and dramatic style.
+  -  アニメーションする軌跡を指定することができる
+-  Oscillation　振動
+  -  When oscillation is added, the transition path overshoots its endpoint at least once and then reverses course to return to the endpoint.
+  -  animation like a bounding
+- Transition patterns
+  - can use shared axis transition animation instead of container transformation
+
 # 8/16 Choreography
 
 - Transitions with animated containers

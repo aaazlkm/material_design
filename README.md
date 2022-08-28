@@ -1,3 +1,13 @@
+# 8/28 Customization
+
+- Elevation
+  - by shrink background content when foreground container transforming, it makes more dramatic appearance between fore and back ground
+    - これは面白いな、より動きが出ていいね
+- Stagger
+  - creates a stylized cascade effect that focuses attention very briefly on each item in a group
+    - short delay before they fade in, creating a cascading effect.
+    - a FAB can stand out by finishing its entrance after all other animations have stopped.
+
 # 8/24 Customization
 
 - motion can be customized to express your brand's style

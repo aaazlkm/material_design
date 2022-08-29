@@ -1,3 +1,15 @@
+# 8/29 Gestures
+
+- Provide realistic responses
+  - dont use animation when drag
+- Indicate gestures
+  -  elements look and behave should indicate if gestures can be performed on them
+    - Animate elements before the user interacts with them to suggest a gesture.
+    - Elevated surfaces, like cards, suggest that they can be moved independently.
+- Show what gestures do
+  - as user performs a gesture, elements sholud move in a way that demonstrates the gestures
+  - Gestures that execute actions should use graphics that communicate what the gesture will do.
+
 # 8/28 Customization
 
 - Elevation
